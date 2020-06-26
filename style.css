@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    line-height: 1.5;
+    background-color: #61A4BB;
+}
+img {
+    width: 90px;    
+    height: 90px;    
+    float: left;    
+    }
+    
+#idCard {    
+    border: 5px solid black;    
+    height: 14em;    
+    width: 25em;  
+    background-color: pink;
+    border-radius: 15px;
+    }
+
+#postFullName {
+    font-size: 30px;
+}
+
+#postAge {
+    text-align: left;
+}
+    
+#postPhoneNumber {
+    text-align: left;
+}
+    
+#postAddress {
+    text-align: left;
+}
+
+div {
+    margin: auto;
+}
