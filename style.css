@@ -23,14 +23,17 @@ img {
 
 #postAge {
     text-align: left;
+    padding-left: 20px;
 }
     
 #postPhoneNumber {
     text-align: left;
+    padding-left: 20px;
 }
     
 #postAddress {
     text-align: left;
+    padding-left: 20px;
 }
 
 div {
